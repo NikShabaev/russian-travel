@@ -6,18 +6,30 @@
   margin-left: 148px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1279px) {
   .intro {
     margin-top: 88px;
     margin-left: 48px;
-    width: 720px;
+    max-width: 690px;
   }
 }
 
-@media screen and (max-width: 719px) {
+@media screen and (max-width: 1023px) {
   .intro {
     margin-top: 64px;
+    margin-left: 24px;
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
     margin-left: 16px;
-    width: 288px;
   }
 }
