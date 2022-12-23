@@ -1,5 +1,5 @@
 .cover__background {
-  max-width: 1148px;
+  max-width: 1184px;
   min-height: 740px;
   color: #ffffff;
   text-decoration: none;
@@ -9,9 +9,9 @@
   justify-content: center;
   margin: 0 auto;
   background-image: url(../../../images/Picture/__background.jpg);
-  background-size: cover;
-  background-position: center;
   position: relative;
+  background-position: center center;
+  background-size: cover;
 }
 
 .cover__background::before {
