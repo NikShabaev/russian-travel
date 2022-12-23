@@ -13,6 +13,6 @@
   }
 }
 
-.footer__list-item:last-child {
+.footer__list-item:nth-child(5) {
   margin-bottom: 0;
 }
