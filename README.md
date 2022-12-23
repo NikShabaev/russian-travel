@@ -1,5 +1,4 @@
-# Проектная работа. Путешествия по России (Яндекс Практикум)
-(https://nikshabaev.github.io/russian-travel/)
+# Проектная работа. Путешествия по России (https://nikshabaev.github.io/russian-travel/)
 -------------------
 
 ## Описание проекта:
