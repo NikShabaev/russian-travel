@@ -24,8 +24,13 @@
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     max-width: calc(100% - 2*24px);
     grid-gap: 48px 28px;
-    margin-bottom: 88px;
+    margin-bottom: 73px;
   }
+
+  .place:nth-child(4) {
+    margin-bottom: 72px;
+  }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -35,6 +40,11 @@
     flex-direction: column;
     max-width: 100%;
   }
+
+  .place:nth-child(4) {
+    margin-bottom: 50px;
+  }
+
 }
 
 

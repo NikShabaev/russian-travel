@@ -3,11 +3,12 @@
   list-style: none;
   gap: 18px;
   padding: 0;
-  margin: 18px 0  6px;
+  margin: 18px 0 6px;
 }
 
-@media screen and (width: 719px) {
+@media screen and (max-width: 719px) {
   .header__lang-links {
-    margin: 14px 0 8px;
+    margin: 0;
+    padding: 14px 0 8px;
   }
 }
